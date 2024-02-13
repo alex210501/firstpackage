@@ -5,3 +5,7 @@ export default function printMsg() {
 export function printName(name: string) {
   console.log(`My name is ${name}`);
 }
+
+export function newFunction() {
+  console.log("New function added");
+}
